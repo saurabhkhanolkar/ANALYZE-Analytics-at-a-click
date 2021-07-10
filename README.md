@@ -1,6 +1,6 @@
 # ANALYZE (Analytics at a click)
 
-● Analyze is a **no code**, **one click**, **dashboarding tool** that enables the Analyst to quickly get started with his/her analysis without having the need to writea single line of code.
+● Analyze is a **no code**, **one click**, **dashboarding tool** that enables the Analyst to quickly get started with his/her analysis without having the need to write a single line of code.
 
 ● Built using Python with extensive use of the following libraries: Pandas, Numpy, Matplotlib.
 
