@@ -1,4 +1,4 @@
-streamlit==0.62.1
+streamlit==1.37.0
 pandas==0.25.1
 numpy==1.16.5
 missingno==0.4.2
